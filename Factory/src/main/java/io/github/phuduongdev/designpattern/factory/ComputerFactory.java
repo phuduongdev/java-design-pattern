@@ -5,9 +5,9 @@
  */
 package io.github.phuduongdev.designpattern.factory;
 
-import io.github.phuduongdev.designpattern.factory.computer.Computer;
-import io.github.phuduongdev.designpattern.factory.computer.PC;
-import io.github.phuduongdev.designpattern.factory.computer.Server;
+import io.github.phuduongdev.designpattern.entity.computer.Computer;
+import io.github.phuduongdev.designpattern.entity.computer.PC;
+import io.github.phuduongdev.designpattern.entity.computer.Server;
 
 /**
  *

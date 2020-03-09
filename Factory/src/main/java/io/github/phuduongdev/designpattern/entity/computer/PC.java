@@ -1,4 +1,4 @@
-package io.github.phuduongdev.designpattern.factory.computer;
+package io.github.phuduongdev.designpattern.entity.computer;
 
 /**
  *

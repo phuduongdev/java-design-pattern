@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package io.github.phuduongdev.designpattern.factory.test;
+package io.github.phuduongdev.designpattern.demo;
 
 import io.github.phuduongdev.designpattern.factory.ComputerFactory;
-import io.github.phuduongdev.designpattern.factory.computer.Computer;
+import io.github.phuduongdev.designpattern.entity.computer.Computer;
 
 /**
  *
