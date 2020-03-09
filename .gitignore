@@ -24,3 +24,4 @@ hs_err_pid*
 /singleton/target/
 /Factory/target/
 /AbstractFactory/target/
+/prototype/target/

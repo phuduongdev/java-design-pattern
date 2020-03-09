@@ -10,6 +10,7 @@
         <module>Factory</module>
         <module>AbstractFactory</module>
         <module>Builder</module>
+        <module>prototype</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

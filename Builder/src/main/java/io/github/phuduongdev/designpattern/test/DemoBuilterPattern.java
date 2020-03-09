@@ -5,7 +5,7 @@
  */
 package io.github.phuduongdev.designpattern.test;
 
-import io.github.phuduongdev.designpattern.entity.Computer;
+import io.github.phuduongdev.designpattern.builder.Computer;
 
 /**
  *

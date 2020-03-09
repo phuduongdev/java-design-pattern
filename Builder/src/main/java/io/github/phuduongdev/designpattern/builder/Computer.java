@@ -1,4 +1,4 @@
-package io.github.phuduongdev.designpattern.entity;
+package io.github.phuduongdev.designpattern.builder;
 
 /**
  *
